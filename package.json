@@ -2,7 +2,7 @@
   "name": "mixim-dark",
   "displayName": "Mixim Dark",
   "description": "Modern, tech-infused theme cuts through the clutter, saturating non-essential elements and amplifying syntax and key features.",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "publisher": "AnjilBishowkarma",
   "engines": {
     "vscode": "^1.85.0"
