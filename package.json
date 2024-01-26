@@ -2,7 +2,7 @@
   "name": "mixim-dark",
   "displayName": "Mixim Dark",
   "description": "Modern, tech-infused theme cuts through the clutter, saturating non-essential elements and amplifying syntax and key features.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "AnjilBishowkarma",
   "engines": {
     "vscode": "^1.85.0"
@@ -15,6 +15,11 @@
     "mixim",
     "modern"
   ],
+  "icon": "icon.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anzeal/mixim-dark"
+  },
   "contributes": {
     "themes": [
       {
