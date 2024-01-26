@@ -1,0 +1,27 @@
+{
+  "name": "mixim-dark",
+  "displayName": "Mixim Dark",
+  "description": "Modern, tech-infused theme cuts through the clutter, saturating non-essential elements and amplifying syntax and key features.",
+  "version": "0.0.1",
+  "publisher": "AnjilBishowkarma",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "mixim",
+    "modern"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mixim Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mixim Dark-color-theme.json"
+      }
+    ]
+  }
+}
